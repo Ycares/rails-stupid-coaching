@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+.input2{
+  border-radius: 5px;
+}
+
+
+
+.input-group{
+  margin-left: 65%;
+}
